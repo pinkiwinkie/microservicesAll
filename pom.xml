@@ -25,6 +25,7 @@
     <module>apigateway</module>
     <module>microserviceproducts</module>
     <module>microserviceusers</module>
+    <module>authservice</module>
   </modules>
   
 	<dependencies>
